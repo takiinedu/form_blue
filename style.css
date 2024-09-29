@@ -96,7 +96,7 @@ form *{
 
 }
 #city, #country, #serial, #date{
-    width: 143px;
+    width: 130px;
 }
 #fname, #lname{
     width: 100px;
