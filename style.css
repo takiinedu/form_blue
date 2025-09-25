@@ -11,6 +11,7 @@ body{
     margin: 8px;
     display: flex;
     justify-content: center;
+    min-width: 1440px;
 }
 .container{
     width: 77.406vw;
