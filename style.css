@@ -13,7 +13,7 @@ body{
     min-width: 1440px;
 }
 .container{
-    width: 100%;
+    width: 1440px;
     background-color: #53AEFD;
     padding: 10px 0;
     border: white 2px solid;
