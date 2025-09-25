@@ -15,7 +15,6 @@ body{
 .container{
     width: 1440px;
     background-color: #53AEFD;
-    padding: 10px 0;
     border: white 2px solid;
     box-shadow: 5px 10px #888888;
 }
