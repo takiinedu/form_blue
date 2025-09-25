@@ -14,7 +14,7 @@ body{
 }
 .container{
     width: 1440px;
-    min-height: 100dvh;
+    min-height: 1000px;
     background-color: #53AEFD;
     box-shadow: 5px 10px #888888;
 }
