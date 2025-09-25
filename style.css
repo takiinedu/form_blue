@@ -8,7 +8,6 @@
     justify-content: center;
 }
 body{
-    margin: 8px;
     display: flex;
     justify-content: center;
     min-width: 1440px;
